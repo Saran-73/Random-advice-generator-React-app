@@ -1,0 +1,71 @@
+body{
+  margin:0;
+  padding:0;
+  background-color: hsl(218, 23%, 16%);
+  color: hsl(193, 38%, 86%);
+  font-family: 'Manrope', sans-serif;
+}
+*{
+  box-sizing: border-box;
+}
+main{
+  display:grid;
+  justify-content:center;
+  align-items:center;
+  min-height: 100vh;
+}
+.card{
+  width:350px;
+  background-color:hsl(217, 19%, 24%);
+  font-size:1.75rem;
+  text-align:center;
+  font-weight:800;
+  border-radius:0.5em;
+  padding:1em 0em 0em;
+}
+p{
+  margin:0 1em;
+}
+.advice--id{
+  font-size:1rem;
+  letter-spacing:0.25em;
+  font-weight:normal;
+  color:hsl(150, 100%, 66%);
+  margin-bottom:1em;
+}
+.image{
+  width:295px;
+  height:20px;
+ background-image:url("./pattern-divider-mobile.svg");
+ background-size:fit-content;
+ background-repeat:no-repeat;
+ margin:1em 1em 0 1em;
+}
+.choose{
+  background-color:hsl(150, 100%, 66%);
+  width:fit-content;
+  border-radius:50%;
+  width:55px;
+  height:55px;
+  padding:0.35em 0.2em 0.35em 0.2em;
+  margin:0.1em auto;
+  cursor:pointer;
+  position:relative;
+  top:1em;
+}
+.choose:hover{
+  box-shadow:0 0 20px 2px hsla(150, 100%, 66%,0.8);
+  transition:ease-in 250ms;
+}
+
+@media (min-width:720px){
+  .card{
+    width:min-content;
+  }
+.image{
+  width:444px;
+ background-image:url("./pattern-divider-desktop.svg");
+}
+
+}
+
