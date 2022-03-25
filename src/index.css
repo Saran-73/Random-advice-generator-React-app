@@ -52,6 +52,10 @@ p{
   cursor:pointer;
   position:relative;
   top:1em;
+  background-image:url("./icon-dice.svg");
+  background-size:fit-content;
+  background-repeat:no-repeat;
+  background-position:top 0.55em left 0.55em;
 }
 .choose:hover{
   box-shadow:0 0 20px 2px hsla(150, 100%, 66%,0.8);
