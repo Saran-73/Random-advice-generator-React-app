@@ -40,7 +40,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [https://saran-73.github.io/Random-advice-generator-React-app/](https://your-live-site-url.com)
+- soln  URL: [https://saran-73.github.io/Random-advice-generator-React-app/]
 
 ## My process
 
