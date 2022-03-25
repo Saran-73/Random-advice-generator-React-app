@@ -24,6 +24,7 @@ useEffect(()=>{
     <div className="image"></div>
     <div onClick={()=>setCount(x=>x+1)} className="choose">
       </div>
+      <p>hello</p>
     </div>
     </main>
   )
