@@ -34,16 +34,12 @@ Users should be able to:
 
 ### Links
 
-- soln  URL: [https://saran-73.github.io/Random-advice-generator-React-app/]
-
+- site URL: [https://saran-73.github.io/Random-advice-generator-React-app/]
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
