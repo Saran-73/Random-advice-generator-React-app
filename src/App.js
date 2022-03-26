@@ -18,7 +18,6 @@ useEffect(()=>{
 
   return (
     <main>
-        <p>hello</p>
     <div className="card">
     <h1 className="advice--id">ADVICE #{id}</h1>
     <p>"{advice}"</p>
