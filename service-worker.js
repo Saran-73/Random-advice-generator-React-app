@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Random-advice-generator-React-app/precache-manifest.cec1378f0494cd54d609d6c46e087f35.js"
+  "/Random-advice-generator-React-app/precache-manifest.910dd36590d22d90ef4112eea30378d5.js"
 );
 
 workbox.clientsClaim();
